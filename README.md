@@ -48,4 +48,5 @@ It contains real user session data like:
 
 ##  How to Run
 
-1. Install required libraries:
+1. Install required libraries:pip install pandas numpy matplotlib seaborn scikit-learn
+2. Open the notebook:main.ipynb
