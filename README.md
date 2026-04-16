@@ -33,7 +33,10 @@ It contains real user session data like:
 - Used **Random Forest** for better performance  
 
 ### 🔹 Evaluation
-- Measured performance using accuracy and classification metrics  
+- Measured performance using accuracy and classification metrics
+
+## Interactive Visualizations
+- Feature Importance: [View Interactive](images/feature_importance_interactive.html)
 
 ## Key Insights
 - Users who spend more time on product pages are more likely to buy  
