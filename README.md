@@ -53,3 +53,25 @@ It contains real user session data like:
 
 1. Install required libraries:pip install pandas numpy matplotlib seaborn scikit-learn
 2. Open the notebook:main.ipynb
+
+## Results
+- Logistic Regression achieved an accuracy of 87.06%, serving as the baseline model.
+
+- Decision Tree achieved an accuracy of 85.73%, which is approximately 1.33% lower than Logistic Regression, indicating possible overfitting and instability.
+
+- Random Forest achieved the highest accuracy of 88.97%, outperforming Logistic Regression by approximately 1.91% and Decision Tree by approximately 3.24%.
+
+- The improved performance of Random Forest is due to its ensemble approach, which combines multiple decision trees to capture complex patterns and reduce overfitting.
+
+- Overall, Random Forest proved to be the most effective model for predicting user conversion in this dataset.
+
+ ## Final Insights
+- User behavior features such as PageValues, BounceRates, and ProductRelated_Duration play a key role in predicting purchase decisions.
+
+- Lower bounce rates are associated with higher conversion probability, suggesting that improving initial user engagement can increase sales.
+
+- Returning users are more likely to convert, highlighting the importance of retention strategies.
+
+- The superior performance of Random Forest shows that ensemble models are better suited for handling complex user behavior data.
+
+- This model can be used to identify high-intent users and optimize targeted marketing campaigns.
