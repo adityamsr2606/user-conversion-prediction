@@ -1,7 +1,6 @@
 User Conversion Prediction
 
->>>About the Project
-This project focuses on understanding user behavior on an e-commerce website and predicting whether a user will make a purchase or not. 
+>>>This project focuses on understanding user behavior on an e-commerce website and predicting whether a user will make a purchase or not. 
 
 The idea is simple: based on how a user interacts with the website (pages visited, time spent, bounce rate, etc.), can we predict if they will buy something?
 
